@@ -8,7 +8,7 @@ This repository showcases a fully functional Back End that I built for a fiction
 
 ## Features
 
-Connecting to the database enables you to view, input, update, or delete items within it.
+Connecting to the application database enables you to view, input, update, or delete items within it.
 
 ## Programming Languages and Technologies Used
 
@@ -43,9 +43,9 @@ The best way of contributing to this project is to help refactor the code! Sugge
 ## Credits
 GitHub: @josegueraweb
 
-- [SOURCE]()
+- [SOURCE](https://github.com/josegueraweb/e-commerce-back-end)
 
-- [LIVE SITE]()
+- [VIDEO WALKTHROUGH -- COMING SOON]()
 
 ## License
 This project is protected under the MIT License.
